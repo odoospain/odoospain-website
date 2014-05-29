@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+    	<template id="odoospain_html_head" inherit_id="website.layout" name="OdooSpain html header">
+    	    <xpath expr="//head" position="inside">
+    	        <link href="/theme_odoospain/static/src/img/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+    	    </xpath>
+    	</template>
+    
+    </data>
+</openerp>
